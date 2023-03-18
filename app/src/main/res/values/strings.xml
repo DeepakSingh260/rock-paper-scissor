@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TensorflowTutorial</string>
+    <string name="androidx_camera_default_config_provider" translatable="false">
+        androidx.camera.camera2.Camera2Config$DefaultProvider
+    </string>
+</resources>
